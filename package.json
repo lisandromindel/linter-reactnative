@@ -1,0 +1,30 @@
+{
+  "name": "@lisandromindel/linter-reactnative",
+  "version": "0.0.1",
+  "description": "React Native ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisandromindel/linter-reactnative.git"
+  },
+  "keywords": [
+    "ReactNative",
+    "ESLint"
+  ],
+  "author": "Lisandro Mindel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisandromindel/linter-reactnative/issues"
+  },
+  "homepage": "https://github.com/lisandromindel/linter-reactnative#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
