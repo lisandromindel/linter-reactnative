@@ -1,3 +1,0 @@
-{
-  'extends': '@lisandromindel/linter-reactnative'
-}
