@@ -1,6 +1,6 @@
 {
   "name": "@lisandromindel/linter-reactnative",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React Native ESLint",
   "main": "index.js",
   "scripts": {
