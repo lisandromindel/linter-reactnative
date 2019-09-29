@@ -1,11 +1,11 @@
 {
-  "name": "@lisandromindel/linter-reactnative",
-  "version": "0.0.4",
+  "name": "@lisandromindel/eslint-config-linter-reactnative",
+  "version": "0.0.6",
   "description": "React Native ESLint",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lisandromindel/linter-reactnative.git"
@@ -15,16 +15,16 @@
     "ESLint"
   ],
   "author": "Lisandro Mindel",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/lisandromindel/linter-reactnative/issues"
   },
   "homepage": "https://github.com/lisandromindel/linter-reactnative#readme",
   "peerDependencies": {
-    "eslint": ">= 6"
+    "eslint": ">=5"
   },
   "dependencies": {
-    "eslint": "^6.4.0",
+    "eslint": "^5.16.0",
     "babel-eslint": "^10.0.3",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-import": "^2.18.2",
